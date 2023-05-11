@@ -10,9 +10,9 @@ Roughly 65% of the ambulances in New York City are operated by the fire departme
 These inefficiencies were largely attributed to a) a 10% increase (20,000) in life-threatening medical emergencies in the last year, b) worsening traffic, and c) insufficient staffing and equipment. As such, our group sought to determine locations of ambulance stations in each New York City borough (Manhattan, Brooklyn, Queens, the Bronx, and Staten Island) that would best minimize ambulance response time (our "cost") while identifying which current station is in the greatest need of added support.
 
 ## Approach
-### 
+### Optimal Ambulance Facility Location
 
-###
+### Immediate Support to Existing Station
 
 
 ## Target Audience and Call to Action
