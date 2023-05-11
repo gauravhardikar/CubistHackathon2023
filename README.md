@@ -32,3 +32,6 @@ Our project was created with the intention of convincing New York City Mayor Eri
 [Facilities Database](https://data.cityofnewyork.us/City-Government/Facilities-Database/ji82-xba5)
 
 ## Sources
+[FDNY ambulance response times climb, *The Chief*](https://thechiefleader.com/stories/fdny-ambulance-response-times-climb,49831#:~:text=Average%20response%20times%20to%20medical,than%20the%20FDNY's%20targeted%20goal.)
+
+[The Effects of Ambulance Response Time on Survival Following Out-of-Hospital Cardiac Arrest, *National Institute of Health*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7718983/#:~:text=The%20odds%20of%20death%20if,of%20less%20than%208%20minutes.)
