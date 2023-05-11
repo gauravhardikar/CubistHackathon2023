@@ -1,2 +1,5 @@
-# CubistHackathon2023
-This 1st-place project at Cubist Systemic Strategies' inaugural hackathon was a joint effort between 4 students at Columbia, Cornell, and Yale. By analyzing publicly available motor vehicle collision and facility location data, the group identified areas of greatest need for ambulance stations in each of New York City's 5 boroughs.
+# CubistHackathon2023 - Overview
+This 1st-place project at Cubist Systemic Strategies' inaugural hackathon was a joint effort between 4 students at Columbia University, Cornell University, and Yale University. By analyzing publicly available motor vehicle collision and facility location data, the group identified areas of greatest need for ambulance stations in each of New York City's 5 boroughs.
+
+## Background
+Cubist Systematic Strategies, the systematic investing business of Point72, hosted its first ever hackathon in April 2023, inviting roughly 50 students from top universities in the Northeast. The participants broke off into roughly 15 self-selected teams to explore publicly available New York City data and present meaningful, actionable insights. My team consisted of myself (an Applied Analytics Master's student at Columbia University), an Operations Research PhD student at Columbia University, and two Computer Science sophomores, one from Cornell University and the other from Yale University.
