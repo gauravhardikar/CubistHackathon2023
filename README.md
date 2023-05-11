@@ -13,11 +13,11 @@ These inefficiencies were largely attributed to a) a 10% increase (20,000) in li
 ## Target Audience and Call to Action
 Our project was created with the intention of convincing New York City Mayor Eric Adams' Office of Management and Budget (OMB) to increase FDNY funding to support the following actions:
 1. Construction of new EMS service centers for each of the 5 boroughs
-Manhattan - 43rd Street & Broadway (Times Square)
-Brooklyn - 64th Street & 21st Avenue (Mapleton)
-The Bronx - Aldus Street & Bryant Avenue (Longwood)
-Queens - 102nd Street & 103rd Avenue (Ozone Park)
-Staten Island - Genesee Avenue & Stanley Circle (Eltingville)
+   - Manhattan - 43rd Street & Broadway (Times Square)
+   - Brooklyn - 64th Street & 21st Avenue (Mapleton)
+   - The Bronx - Aldus Street & Bryant Avenue (Longwood)
+   - Queens - 102nd Street & 103rd Avenue (Ozone Park)
+   - Staten Island - Genesee Avenue & Stanley Circle (Eltingville)
 
 2. Increased staffing and ambulances at the Pier 35 and 36 EMS station in Manhattan's Lower East Side
 
