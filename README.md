@@ -9,6 +9,11 @@ Roughly 65% of the ambulances in New York City are operated by the fire departme
 
 These inefficiencies were largely attributed to a) a 10% increase (20,000) in life-threatening medical emergencies in the last year, b) worsening traffic, and c) insufficient staffing and equipment. As such, our group sought to determine locations of ambulance stations in each New York City borough (Manhattan, Brooklyn, Queens, the Bronx, and Staten Island) that would best minimize ambulance response time (our "cost") while identifying which current station is in the greatest need of added support.
 
+## Approach
+### 
+
+###
+
 
 ## Target Audience and Call to Action
 Our project was created with the intention of convincing New York City Mayor Eric Adams' Office of Management and Budget (OMB) to increase FDNY funding to support the following actions:
@@ -21,7 +26,8 @@ Our project was created with the intention of convincing New York City Mayor Eri
 
 2. Increased staffing and ambulances at the Pier 35 and 36 EMS station in Manhattan's Lower East Side
 
-
 ## Datasets Used
+[Motor Vehicle Collisions - Crashes](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95)
+[Facilities Database](https://data.cityofnewyork.us/City-Government/Facilities-Database/ji82-xba5)
 
 ## Sources
