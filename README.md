@@ -20,9 +20,13 @@ Here are how the number of injury/fatality-riddled accidents in LES compared to 
 Rush Hour (weekdays from 8-9 AM and 3-7 PM)
 - LES: **103** accidents
 - Murray Hill/Kips Bay (1 ambulance station): 77 accidents
+
+
 Weekdays
 - LES: **237** accidents
 - East Harlem (2 ambulance stations): 178 accidents
+
+
 Weekends
 - LES: **83** accidents
 - East Harlem (2 ambulance stations): 62 accidents
@@ -31,7 +35,6 @@ Weekends
 Our project was created with the intention of convincing New York City Mayor Eric Adams' Office of Management and Budget (OMB) to increase FDNY funding to support the following actions:
 1. Construction of new EMS service centers for each of the 5 boroughs as follows:
    - Manhattan - 43rd Street & Broadway (Times Square)
-   - 
    - Brooklyn - 64th Street & 21st Avenue (Mapleton)
    - The Bronx - Aldus Street & Bryant Avenue (Longwood)
    - Queens - 102nd Street & 103rd Avenue (Ozone Park)
