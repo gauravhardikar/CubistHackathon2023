@@ -11,20 +11,33 @@ These inefficiencies were largely attributed to a) a 10% increase (20,000) in li
 
 ## Approach
 ### Optimal Ambulance Facility Location
+Using NYC data for the locations of current facilities (hospitals and ambulance stations) and a dataframe of motorvehicle collision instances in the last year, we clustered these accidents by the nearest ambulance station (by Haversine distance). For each hospital, we introduced five "dummy" ambulance stations, with one at the hospital and the others located a kilometer north, east, south, or west of the hospital. We then used discrete gradient descent to figure out which of these 5 potential ambulance station locations minimized the total ambulance response time across all accidents within the cluster belonging to the hospital. Finally, we compared each hospital's best result to determine, for each borough, where to place an ambulance station (EMS service center) that would best reduce ambulance response time.
 
 ### Immediate Support to Existing Station
+Focusing specifically on Manhattan, we visualized accident patterns during the week, on weekends, and during rush hour. We further inspected these patterns by grouping by zip code, which highlighted a major issue in Manhattan's Lower East Side (LES); this particular neighborhood experienced the most injury/death-causing accidents by a wide margin in the last year and had just **one** ambulance station. This indicated that the Pier 35 and 36 EMS Center in LES is currently in greatest need of additional staffing and ambulances to address the disproportionate accidents in the area.
 
+Here are how the number of injury/fatality-riddled accidents in LES compared to the second-most problematic neighborhoods for each grouping in the last year:
+Rush Hour (weekdays from 8-9 AM and 3-7 PM)
+- LES: **103** accidents
+- Murray Hill/Kips Bay (1 ambulance station): 77 accidents
+Weekdays
+- LES: **237** accidents
+- East Harlem (2 ambulance stations): 178 accidents
+Weekends
+- LES: **83** accidents
+- East Harlem (2 ambulance stations): 62 accidents
 
 ## Target Audience and Call to Action
 Our project was created with the intention of convincing New York City Mayor Eric Adams' Office of Management and Budget (OMB) to increase FDNY funding to support the following actions:
-1. Construction of new EMS service centers for each of the 5 boroughs
+1. Construction of new EMS service centers for each of the 5 boroughs as follows:
    - Manhattan - 43rd Street & Broadway (Times Square)
+   - 
    - Brooklyn - 64th Street & 21st Avenue (Mapleton)
    - The Bronx - Aldus Street & Bryant Avenue (Longwood)
    - Queens - 102nd Street & 103rd Avenue (Ozone Park)
    - Staten Island - Genesee Avenue & Stanley Circle (Eltingville)
 
-2. Increased staffing and ambulances at the Pier 35 and 36 EMS station in Manhattan's Lower East Side
+2. Increased staffing and ambulances at the Pier 35 and 36 EMS station in Manhattan's Lower East Side.
 
 ## Datasets Used
 [Motor Vehicle Collisions - Crashes](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95)
